@@ -19,10 +19,11 @@ This is a simple React Native application designed to simulate rolling dice. The
 4. Once the app is loaded on your device, tap the "Roll" button to roll the die and see the result.
 
 ## Download
-You can download the APK file for Android devices from [here](#). *(Add your download link here)*
+You can download the APK file for Android devices from [here](https://drive.google.com/file/d/1ozfKospebwkwfXE7K8ZZnqSIMKKgQZbQ/view?usp=sharing)
 
 ## Screenshots
-![Screenshot 1](screenshots/screenshot1.png)
+![photo_2024-04-04_15-19-47](https://github.com/ravi-rathore-securedev/Dice-Roller/assets/115914121/8bc6882e-94ff-49f1-a052-9eb3f31fecaf)
+
 
 ## Dependencies
 - React Native
